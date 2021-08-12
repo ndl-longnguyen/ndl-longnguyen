@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Long Dev
+- 🌱 I’m currently learning Java, JavaScript, C#
+- 📫 How to reach me:
+  - FB: https://www.facebook.com/ndailong/  
+  - Email: nguyendailong2k@gmail.com
