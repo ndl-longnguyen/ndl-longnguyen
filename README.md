@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Long Dev
-- 🌱 I’m currently learning Java, JavaScript, C#
+- 🌱 I am fluent in the language HTML, CSS, JS
+- 🌱 I’m currently learning PHP, NodeJS, ReactJS
 - 📫 How to reach me:
   - FB: https://www.facebook.com/ndailong/  
   - Email: nguyendailong2k@gmail.com
