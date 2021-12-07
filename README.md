@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Long Dev
-- 🌱 I am fluent in the language HTML, CSS, JS
+- 👋 Hi, I’m Long Dai
+- 🌱 I’m fluent in the language HTML, CSS, JS
 - 🌱 I’m currently learning PHP, NodeJS, ReactJS
 - 📫 How to reach me:
   - FB: https://www.facebook.com/ndailong/  
