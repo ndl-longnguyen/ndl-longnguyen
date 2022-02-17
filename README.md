@@ -3,7 +3,7 @@
 ## Info about me 📝
 - 👋 Hi, I’m Long Nguyen
 - 🌱 I’m fluent in the language HTML, CSS, JS
-- 🌱 I’m currently learning PHP, NodeJS, ReactJS
+- 🌱 I’m learning PHP, NodeJS, ReactJS
 - 📫 How to reach me:
   - FB: https://www.facebook.com/ndailong/  
   - Email: nguyendailong2k@gmail.com
