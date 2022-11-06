@@ -1,9 +1,9 @@
 <h1 align="center" >Hi, I'm a back-end developer </h1>
 
 ## Info about me 📝
-- 👋 Hi, I’m Long Nguyen
-- 🌱 I’m fluent in the language HTML, CSS, JS
-- 🌱 I’m learning PHP, NodeJS, ReactJS
+- 👋 Hi, I am Long Nguyen
+- 🌱 I’m fluent in the language PHP Laravel, HTML, CSS, JS
+- 🌱 I’m learning C#, VueJS, NodeJS, ReactJS
 - 📫 How to reach me:
   - FB: https://www.facebook.com/ndailong/  
   - Email: nguyendailong2k@gmail.com
