@@ -5,7 +5,7 @@
 </h1>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ndl-longnguyen&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" />
+    <img src="https://komarev.com/ghpvc/?username=ndl-longnguyen&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Long Nguyen" />
 </p>
 
 # 💫 About Me
