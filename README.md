@@ -1,37 +1,67 @@
-<h1 align="center" >Hi, I'm a back-end developer </h1>
+<h1 align="center">
+    Hola, 
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
+    I'm Long Nguyen
+</h1>
 
-## Info about me 📝
-- 👋 Hi, I am Long Nguyen
-- 🌱 I’m fluent in the language PHP Laravel, HTML, CSS, JS
-- 🌱 I’m learning C#, VueJS, NodeJS, ReactJS
-- 📫 How to reach me:
-  - FB: https://www.facebook.com/ndailong/  
-  - Email: nguyendailong2k@gmail.com
-
-## Languages and Tools 🧐
-<p align="left" dir="auto"> &nbsp;&nbsp;&nbsp;&nbsp;  
-  <a href="https://git-scm.com/" rel="nofollow"> 
-      <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> 
-  </a>
-  <a href="https://www.w3.org/html/" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">       
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
-  </a> 
-  <a href="https://www.php.org" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"> 
-  </a> 
-  <a href="https://www.laravel.com" rel="nofollow"> 
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" style="max-width: 100%;"> 
-  </a> 
-  <a href="https://www.mysql.com/" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">       </a> 
-  <a href="https://nodejs.org" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;">   </a> 
-  <a href="https://reactjs.org/" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> 
-  </a> 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=ndl-longnguyen&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" />
 </p>
+
+# 💫 About Me
+
+- 🔭 Specializing in building scalable web applications with Django and Laravel.
+- 🌱 Expanding my skills in AI and LLMs for advanced web solutions.
+- 👯 Open to collaborating on innovative web development projects.
+- 🤔 Seeking opportunities to enhance my web development expertise through challenging side projects.
+- 📫 Reach me via the social links below.
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ndl-longnguyen)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ndailong)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ndl.longnguyen)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/long_ngdai/)
+
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## 💳 Github Profile Summary Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndl-longnguyen&theme=vue"/>
+</p>
+
+<!-- ## 📟 GitHub Stats
+
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ndl-longnguyen&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ndl-longnguyen&theme=vue" />
+</p> -->
+
+---
+
+<!-- [![](https://visitcount.itsvg.in/api?id=ndl-longnguyen&icon=0&color=1)](https://visitcount.itsvg.in) -->
+
+<div align="center">
+	
+### Show some ❤️ by starring some of the repositories!
+
+</div>
