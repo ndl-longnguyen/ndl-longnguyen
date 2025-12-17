@@ -10,10 +10,12 @@
 
 # 💫 About Me
 
-- 🔭 Specializing in building scalable web applications with Django and Laravel.
-- 🌱 Expanding my skills in AI and LLMs for advanced web solutions.
-- 👯 Open to collaborating on innovative web development projects.
-- 🤔 Seeking opportunities to enhance my web development expertise through challenging side projects.
+- 💻 Software Engineer / Backend Developer with 3+ years of hands-on experience building and maintaining production-ready systems.
+- 🧠 Strong focus on clean code, solid architecture, and system design, with experience in analyzing requirements and translating them into scalable technical solutions.
+- 🔭 Specialized in backend development using Python (Django / Django REST Framework) and PHP (Laravel), with extensive experience in API design and complex business logic.
+- ⚙️ Experienced in system optimization, performance tuning, and database design for real-world applications.
+- 🤝 Familiar with Agile/Scrum workflows, effective collaboration, and code review practices to ensure long-term maintainability.
+- 🌱 Continuously learning modern backend patterns and technologies to build more reliable, scalable systems.
 - 📫 Reach me via the social links below.
 
 ## 🌐 Socials
